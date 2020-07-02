@@ -7,3 +7,5 @@ New Line again
 
 NEW
 Super NEW
+
+I am a new line on Alice
